@@ -1,0 +1,77 @@
+{
+    "bodyParts": [
+        "肩",
+        "首"
+    ],
+    "items": [
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440000",
+            "title": "肩の上下運動",
+            "imageUrl": "https://picsum.photos/id/1025/600/400",
+            "durationSeconds": 60,
+            "effect": [
+                "肩こりの緩和",
+                "肩の血行促進"
+            ],
+            "bodyParts": [
+                "肩",
+                "首"
+            ],
+            "category": "ストレッチ",
+            "steps": [
+                {
+                    "stepNumber": 1,
+                    "startSecond": 0,
+                    "endSecond": 29,
+                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                    "title": "肩の上下運動",
+                    "description": "息を吸いながら肩を耳に近づけ、吐きながら一気に落とします。"
+                },
+                {
+                    "stepNumber": 2,
+                    "startSecond": 30,
+                    "endSecond": 59,
+                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                    "title": "肩甲骨寄せ",
+                    "description": "両肘を後ろに引き、肩甲骨を寄せるように意識します。"
+                }
+            ]
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440001",
+            "title": "首まわりのストレッチ",
+            "imageUrl": "https://picsum.photos/id/1062/600/400",
+            "durationSeconds": 60,
+            "effect": [
+                "首こりの緩和",
+                "眼精疲労の改善"
+            ],
+            "bodyParts": [
+                "首"
+            ],
+            "category": "ストレッチ",
+            "steps": [
+                {
+                    "stepNumber": 1,
+                    "startSecond": 0,
+                    "endSecond": 59,
+                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+                    "title": "首を左右に倒す",
+                    "description": "手で優しく頭を押し、首の横側をじっくり伸ばします。"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440011",
+            "title": "肩の痛み解消コース",
+            "imageUrl": "https://picsum.photos/id/1069/600/400",
+            "durationSeconds": 120,
+            "item_ids": [
+                "550e8400-e29b-41d4-a716-446655440000",
+                "550e8400-e29b-41d4-a716-446655440001"
+            ]
+        }
+    ]
+}
