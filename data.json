@@ -23,7 +23,7 @@
                     "stepNumber": 1,
                     "startSecond": 0,
                     "endSecond": 29,
-                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                    "videoUrl": "https://pub-fbdd92d0847f48bb94bf3b175e470aa5.r2.dev/sample2.mp4",
                     "title": "肩の上下運動",
                     "description": "息を吸いながら肩を耳に近づけ、吐きながら一気に落とします。"
                 },
@@ -31,7 +31,7 @@
                     "stepNumber": 2,
                     "startSecond": 30,
                     "endSecond": 59,
-                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                    "videoUrl": "https://pub-fbdd92d0847f48bb94bf3b175e470aa5.r2.dev/sample3.mp4",
                     "title": "肩甲骨寄せ",
                     "description": "両肘を後ろに引き、肩甲骨を寄せるように意識します。"
                 }
@@ -55,7 +55,7 @@
                     "stepNumber": 1,
                     "startSecond": 0,
                     "endSecond": 59,
-                    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+                    "videoUrl": "https://pub-fbdd92d0847f48bb94bf3b175e470aa5.r2.dev/sample1.mp1",
                     "title": "首を左右に倒す",
                     "description": "手で優しく頭を押し、首の横側をじっくり伸ばします。"
                 }
