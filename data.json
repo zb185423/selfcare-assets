@@ -17,6 +17,7 @@
                 "肩",
                 "首"
             ],
+            "is_premium": false,
             "category": "ストレッチ",
             "steps": [
                 {
@@ -49,6 +50,7 @@
             "bodyParts": [
                 "首"
             ],
+            "is_premium": false,
             "category": "ストレッチ",
             "steps": [
                 {
@@ -68,6 +70,7 @@
             "title": "肩の痛み解消コース",
             "imageUrl": "https://picsum.photos/id/1069/600/400",
             "durationSeconds": 120,
+            "is_premium": true,
             "item_ids": [
                 "550e8400-e29b-41d4-a716-446655440000",
                 "550e8400-e29b-41d4-a716-446655440001"
