@@ -1,8 +1,4 @@
 {
-    "bodyParts": [
-        "肩",
-        "首"
-    ],
     "items": [
         {
             "id": "550e8400-e29b-41d4-a716-446655440000",
@@ -20,6 +16,7 @@
             "is_premium": false,
             "category": "ストレッチ",
             "videoUrl": "https://pub-fbdd92d0847f48bb94bf3b175e470aa5.r2.dev/sample1.mp4",
+            "updated_at": "2026-10-06T12:00:00Z",
             "steps": [
                 {
                     "stepNumber": 1,
@@ -52,6 +49,7 @@
             "is_premium": false,
             "category": "ストレッチ",
             "videoUrl": "https://pub-fbdd92d0847f48bb94bf3b175e470aa5.r2.dev/sample2.mp4",
+            "updated_at": "2026-10-06T12:00:00Z",
             "steps": [
                 {
                     "stepNumber": 1,
@@ -68,8 +66,8 @@
             "id": "550e8400-e29b-41d4-a716-446655440011",
             "title": "肩の痛み解消コース",
             "imageUrl": "https://picsum.photos/id/1069/600/400",
-            "durationSeconds": 120,
             "is_premium": true,
+            "updated_at": "2026-10-06T12:00:00Z",
             "item_ids": [
                 "550e8400-e29b-41d4-a716-446655440000",
                 "550e8400-e29b-41d4-a716-446655440001"
